@@ -5,7 +5,7 @@
 #source :gemcutter
 
 gem "i18n-inflector", "~>2.6"
-#gem "railties", "~>4.0.0"
+gem "railties", "~>4.0.0"
 gem "actionpack", "~>4.0.0"
 
 gem "hoe-yard", ">=0.1.2", :group => [:development, :test]
